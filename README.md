@@ -1,7 +1,7 @@
 # Evently — Harita Tabanlı Etkinlik Keşif Uygulaması
 
 <p align="center">
-  <img src="Evently/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="120" height="120" alt="Evently Icon" style="border-radius: 22px;"/>
+  <img src="screenshots/icon.png" width="500" height="200" alt="Evently Icon" style="border-radius: 22px;"/>
 </p>
 
 <p align="center">
